@@ -1,5 +1,5 @@
 {
-  "name": "sparql-client-2",
+  "name": "@futpib/sparql-client",
   "version": "0.6.2",
   "author": "Eddie Antonio Santos <easantos@ualberta.ca> (http://eddieantonio.ca/)",
   "contributors": [
